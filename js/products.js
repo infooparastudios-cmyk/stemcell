@@ -2,9 +2,9 @@
 const SITE = {
   name: "Stem Cell",
   tagline: "Natural herbal remedies & stem cell supplements",
-  whatsapp: "2340000000000", // international format, digits only (e.g. 2348012345678)
-  phone: "+234 000 000 0000",
-  email: "hello@example.com",
+  whatsapp: "2348036126352", // international format, digits only (e.g. 2348012345678)
+  phone: "+234 803 612 6352",
+  email: "agbasoogo@gmail.com",
   address: "Lagos, Nigeria",
   currency: "₦",
 };
