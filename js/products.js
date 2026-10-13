@@ -5,7 +5,7 @@ const SITE = {
   whatsapp: "2348036126352", // international format, digits only (e.g. 2348012345678)
   phone: "+234 803 612 6352",
   email: "agbasoogo@gmail.com",
-  address: "Lagos, Nigeria",
+  address: "No. 78 Ola Street, Oke-Ira, Ogba, Ikeja, Lagos State",
   currency: "₦",
 };
 
